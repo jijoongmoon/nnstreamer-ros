@@ -139,6 +139,7 @@ catkin_package(
 
 SET(CXX_SRC_FILES_NNS_ROS_BRIDGE
     ./node/nns_ros_bridge.cc
+    ./node/nns_ros_bridge_v2.cc
     )
 
 ###########
